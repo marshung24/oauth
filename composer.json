@@ -13,5 +13,8 @@
     "autoload": {
         "psr-4": { "marsapp\\structure\\": "src" }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require": {
+        "bshaffer/oauth2-server-php": "^1.11"
+    }
 }
